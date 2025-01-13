@@ -8,3 +8,4 @@ Les implémentations sont réalisées en Python et R, avec un focus particulier 
 
 
 Lien du dataset : https://drive.google.com/file/d/1OElqoCmOdU5hdwE_sRq3-xRll9hOYdLK/view
+Lien Colab :  https://colab.research.google.com/drive/1haq3ifCWlXdtutwitJx_QGYh_shf_f0c?usp=sharing
